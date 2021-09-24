@@ -1,4 +1,4 @@
-# Desenvolva uma função que inverta o número inserido, porém utilizando o número inteiro, sem transformá-lo em vetor ou string.
+//Desenvolva uma função que inverta o número inserido, porém utilizando o número inteiro, sem transformá-lo em vetor ou string.
 
 function algarismos(numero){
     let algarism=0;
